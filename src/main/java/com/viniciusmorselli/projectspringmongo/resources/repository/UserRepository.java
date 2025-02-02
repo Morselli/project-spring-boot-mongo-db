@@ -1,4 +1,4 @@
-package com.viniciusmorselli.projectspringmongo.repository;
+package com.viniciusmorselli.projectspringmongo.resources.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
