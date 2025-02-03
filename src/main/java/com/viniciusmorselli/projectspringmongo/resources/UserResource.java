@@ -14,7 +14,6 @@ import com.viniciusmorselli.projectspringmongo.dto.UserDTO;
 import com.viniciusmorselli.projectspringmongo.services.UserService;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
